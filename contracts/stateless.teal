@@ -1,0 +1,17 @@
+#pragma version 4
+txn RekeyTo
+global ZeroAddress
+==
+txn CloseRemainderTo
+global ZeroAddress
+==
+&&
+txn  XferAsset
+int 70703868
+==
+&&
+gtxn 1 ApplicationID
+int 70706336
+==
+&&
+return
