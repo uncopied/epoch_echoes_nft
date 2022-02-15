@@ -1,22 +1,6 @@
 # List of EPOCH ECHOES NFTs and their UNCOPIED ASAs
 
-UNCOPIED ASAs:
-
-| ASA ID        | Certificate Name |
-| ------------- | ---------------- |
-|[603958043](https://algoexplorer.io/asset/603958043)|[ "ECHOES," 1/5 ](https://api.uncopied.art/c/v/w)|
-|[603958208](https://algoexplorer.io/asset/603958208)|[ "ECHOES," 2/5 ](https://api.uncopied.art/c/v/x)|
-|[603958416](https://algoexplorer.io/asset/603958416)|[ "ECHOES," 3/5 ](https://api.uncopied.art/c/v/y)|
-|[603958629](https://algoexplorer.io/asset/603958629)|[ "ECHOES," 4/5 ](https://api.uncopied.art/c/v/z)|
-|[603958769](https://algoexplorer.io/asset/603958769)|[ "ECHOES," 5/5 ](https://api.uncopied.art/c/v/0)|
-|[603958906](https://algoexplorer.io/asset/603958906)|[ "ECHOES," 1/8 AP ](https://api.uncopied.art/c/v/1)|
-|[603959002](https://algoexplorer.io/asset/603959002)|[ "ECHOES," 2/8 AP ](https://api.uncopied.art/c/v/2)|
-|[603959134](https://algoexplorer.io/asset/603959134)|[ "ECHOES," 3/8 AP ](https://api.uncopied.art/c/v/3)|
-|[603959233](https://algoexplorer.io/asset/603959233)|[ "ECHOES," 4/8 AP ](https://api.uncopied.art/c/v/4)|
-|[603959325](https://algoexplorer.io/asset/603959325)|[ "ECHOES," 5/8 AP ](https://api.uncopied.art/c/v/5)|
-|[603959427](https://algoexplorer.io/asset/603959427)|[ "ECHOES," 6/8 AP ](https://api.uncopied.art/c/v/6)|
-|[603959534](https://algoexplorer.io/asset/603959534)|[ "ECHOES," 7/8 AP ](https://api.uncopied.art/c/v/7)|
-|[603959640](https://algoexplorer.io/asset/603959640)|[ "ECHOES," 8/8 AP ](https://api.uncopied.art/c/v/8)|
+## EPOCH NFTs (Algorand ARC3 NFTs with Smart Contract)
 
 | ASA ID        | EPOCH NFT (ARC3) |
 | ------------- | ---------------- |
@@ -34,6 +18,23 @@ UNCOPIED ASAs:
 |[603965647](https://www.nftexplorer.app/asset/603965647)|[ "ECHOES," 7/8 AP ]( https://api.uncopied.art/c/v/7)|
 |[603965731](https://www.nftexplorer.app/asset/603965731)|[ "ECHOES," 8/8 AP ]( https://api.uncopied.art/c/v/8)|
 
+## UNCOPIED Certificates of Provenance (Algorand ASAs) :
+
+| ASA ID        | Certificate Name |
+| ------------- | ---------------- |
+|[603958043](https://algoexplorer.io/asset/603958043)|[ "ECHOES," 1/5 ](https://api.uncopied.art/c/v/w)|
+|[603958208](https://algoexplorer.io/asset/603958208)|[ "ECHOES," 2/5 ](https://api.uncopied.art/c/v/x)|
+|[603958416](https://algoexplorer.io/asset/603958416)|[ "ECHOES," 3/5 ](https://api.uncopied.art/c/v/y)|
+|[603958629](https://algoexplorer.io/asset/603958629)|[ "ECHOES," 4/5 ](https://api.uncopied.art/c/v/z)|
+|[603958769](https://algoexplorer.io/asset/603958769)|[ "ECHOES," 5/5 ](https://api.uncopied.art/c/v/0)|
+|[603958906](https://algoexplorer.io/asset/603958906)|[ "ECHOES," 1/8 AP ](https://api.uncopied.art/c/v/1)|
+|[603959002](https://algoexplorer.io/asset/603959002)|[ "ECHOES," 2/8 AP ](https://api.uncopied.art/c/v/2)|
+|[603959134](https://algoexplorer.io/asset/603959134)|[ "ECHOES," 3/8 AP ](https://api.uncopied.art/c/v/3)|
+|[603959233](https://algoexplorer.io/asset/603959233)|[ "ECHOES," 4/8 AP ](https://api.uncopied.art/c/v/4)|
+|[603959325](https://algoexplorer.io/asset/603959325)|[ "ECHOES," 5/8 AP ](https://api.uncopied.art/c/v/5)|
+|[603959427](https://algoexplorer.io/asset/603959427)|[ "ECHOES," 6/8 AP ](https://api.uncopied.art/c/v/6)|
+|[603959534](https://algoexplorer.io/asset/603959534)|[ "ECHOES," 7/8 AP ](https://api.uncopied.art/c/v/7)|
+|[603959640](https://algoexplorer.io/asset/603959640)|[ "ECHOES," 8/8 AP ](https://api.uncopied.art/c/v/8)|
 
 
 # The Smart Contracts are added to EPOCH NFTs using a React App
